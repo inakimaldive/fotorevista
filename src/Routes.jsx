@@ -1,15 +1,15 @@
 import React from "react";
 import { BrowserRouter, Routes as RouterRoutes, Route } from "react-router-dom";
-import ScrollToTop from "components/ScrollToTop";
-import ErrorBoundary from "components/ErrorBoundary";
+import ScrollToTop from "./components/ScrollToTop";
+import ErrorBoundary from "./components/ErrorBoundary";
 // Add your imports here
-import Homepage from "pages/homepage";
-import ProductReviews from "pages/product-reviews";
-import ArticleDetail from "pages/article-detail";
-import PhotographyGallery from "pages/photography-gallery";
-import EventsCalendar from "pages/events-calendar";
-import PhotographerProfiles from "pages/photographer-profiles";
-import NotFound from "pages/NotFound";
+import Homepage from "./pages/homepage";
+import ProductReviews from "./pages/product-reviews";
+import ArticleDetail from "./pages/article-detail";
+import PhotographyGallery from "./pages/photography-gallery";
+import EventsCalendar from "./pages/events-calendar";
+import PhotographerProfiles from "./pages/photographer-profiles";
+import NotFound from "./pages/NotFound";
 
 const Routes = () => {
   return (

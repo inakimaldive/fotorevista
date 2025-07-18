@@ -51,7 +51,7 @@ const Homepage = () => {
       id: 1,
       title: "Canon EOS R5 Mark II - Análisis Completo",
       excerpt: "Descubre todas las características de la nueva cámara insignia de Canon en nuestro análisis detallado.",
-      image: "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2148&q=80",
+      image: "https://images.unsplash.com/photo-1519183071298-a2962be56693?auto=format&fit=crop&w=800&q=80", // Canon camera
       category: "Reseñas",
       author: "Carlos Ruiz",
       publishDate: "2025-07-15",
